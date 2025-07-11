@@ -1,7 +1,7 @@
 import json
 
 # Ruta al archivo JSON
-json_file = 'LigninStructs_8.json'
+json_file = '/home/sebastiandvargas/lignin-structure-generator-main/Executable_Jar_and_Config/output/json/LigninStructs_8.json'
 
 # Leer el archivo y extraer los SMILES
 with open(json_file, 'r') as f:
